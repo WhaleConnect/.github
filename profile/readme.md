@@ -1,6 +1,6 @@
-# Network Socket Terminal
+# WhaleConnect
 
-**Network Socket Terminal** is a general-purpose, cross-platform network communication application for Windows, macOS, and Linux. Its features include:
+**WhaleConnect** is a general-purpose, cross-platform network communication application for Windows, macOS, and Linux. Its features include:
 
 - TCP, UDP, L2CAP, and RFCOMM sockets
 - TLS over TCP clients
@@ -8,6 +8,6 @@
 - Intuitive GUI
 - Parallel connection management: open multiple clients/servers at the same time
 
-For a full feature list, go to the [main repository](https://github.com/NSTerminal/terminal).
+For a full feature list, go to the [main repository](https://github.com/WhaleConnect/whaleconnect).
 
-Learn how to use the software with the [usage documentation](https://github.com/NSTerminal/terminal/blob/main/docs/usage.md).
+Learn how to use the software with the [usage documentation](https://github.com/WhaleConnect/whaleconnect/blob/main/docs/usage.md).
