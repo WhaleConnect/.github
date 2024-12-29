@@ -10,4 +10,4 @@
 
 For a full feature list, go to the [main repository](https://github.com/WhaleConnect/whaleconnect).
 
-Learn how to use the software with the [usage documentation](https://github.com/WhaleConnect/whaleconnect/blob/main/docs/usage.md).
+Learn how to use the software with the [usage documentation](https://aidansun.com/articles/whaleconnect-usage/).
